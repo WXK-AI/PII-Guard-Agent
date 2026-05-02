@@ -1,0 +1,7 @@
+Student registration note:
+
+My name is Alex Tan and my student ID is TP078888.
+Please contact me at alex.tan@example.com or +60 12-345 6789.
+I live near Jalan Example 12, Kuala Lumpur.
+
+This text should be reviewed before being shared with an external AI tool.
